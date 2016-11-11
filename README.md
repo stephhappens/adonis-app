@@ -8,7 +8,7 @@ This repo is the pre-configured project structure to be used for creating ambiti
 
 One day a :boy: wanted to write a web application to slowly turn it into a business and make some :moneybag: for better living. Being a Javascript lover, he decided to go with Node.js. 
 
-Hosting Node.js applications are cheap and offers lots of mordern programming concepts to build realtime data rich applications.
+Hosting Node.js applications are cheap and offers lots of modern programming concepts to build realtime data rich applications.
 
 He was so excited and full of energy to build this application and share it with the world. But soon his dreams started struggling with the amount of decisions he has to make, just to build an MVP of his idea. These decisions were not even related to the business and was about.
 
